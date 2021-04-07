@@ -2,7 +2,13 @@
 
  
 ![Book 표지](./img/book.png)
+
+<img src="./img/book.png" alt="book" style="zoom:30%; float:left;" />
+
+
 파이썬 라이브러리를 활용한 머신러닝 
+
+
 
 이 책을 보며 공부한 내용을 정리하는 공간이다.
 
