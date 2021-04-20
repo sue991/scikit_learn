@@ -15,4 +15,4 @@
 #### 실행환경
 - macOS M1
 - conda (miniforge3)
-- Python 3.9.2
+- Python 3.8.8
