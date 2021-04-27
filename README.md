@@ -16,3 +16,4 @@
 - macOS M1
 - conda (miniforge3)
 - Python 3.8.8
+
